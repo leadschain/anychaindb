@@ -1,7 +1,7 @@
 ![anychaindb logo](https://i.imgur.com/co6woS3.png)
 > AnychainDB is distributed blockchain database suitables for any purposes.
 
-[![Build Status](https://travis-ci.org/eeonevision/anychaindb.svg?branch=master)](https://travis-ci.org/eeonevision/anychaindb) [![Go Report Card](https://goreportcard.com/badge/github.com/eeonevision/anychaindb)](https://goreportcard.com/report/github.com/eeonevision/anychaindb) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Build Status](https://travis-ci.org/eeonevision/anychaindb.svg?branch=master)](https://travis-ci.org/eeonevision/anychaindb) [![Go Report Card](https://goreportcard.com/badge/github.com/eeonevision/anychaindb)](https://goreportcard.com/report/github.com/eeonevision/anychaindb) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/anychaindb/Lobby](https://badges.gitter.im/anychaindb/Lobby.svg)](https://gitter.im/anychaindb/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Features
   * Blazing fast. The performance for data writing/reading is above of 2000 tx/s
